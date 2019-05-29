@@ -1,0 +1,1 @@
+nohup python -u nav.py > $1 2>&1 &
